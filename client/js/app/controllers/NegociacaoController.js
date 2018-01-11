@@ -9,7 +9,6 @@ class NegociacaoController {
 
 		let self = this;
 		
-		
 		this._listaNegociacoes = new Bind(
 				new ListaNegociacoes(),
 				new NegociacoesView($('#negociacoesView')),
