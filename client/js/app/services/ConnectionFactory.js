@@ -1,5 +1,5 @@
 
-var ConnectionFactory = (function {
+var ConnectionFactory = (function () {
 
 	const stores = ['negociacoes'];
 	const version = 4;
